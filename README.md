@@ -1,2 +1,2 @@
-# DMonitor
-Supersimple monitor of webactions
+# Documentor
+Documentatie generator voor Imvertor in Respec 
